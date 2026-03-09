@@ -7,7 +7,7 @@
 ## About Me
 
 - 🌱 I'm developing my FrontEnd skills and I dabble in the backend when my senior allows me to.
-- 💬 Ask me about C#, Swift, Kotlin, SQL, JavaScript, Svelte, Node.js!
+- 💬 Ask me about C#, Swift, Kotlin, SQL, JavaScript, Svelte, React, Flutter, Node.js!
 - 📫 Text me on: josemlopez1912@gmail.com
 
 ## Portfolio
