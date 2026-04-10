@@ -14,14 +14,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Error404RD&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404RD&layout=compact&theme=radical" />
+
+<img src="https://streak-stats.demolab.com?user=Error404RD&theme=radical" />
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**
-- 💡 C#, Swift, Kotlin
-- 🌐 JavaScript (Svelte, React)
-- 📱 Flutter
-- ⚙️ Node.js
-- 🗄️ SQL
+- 💡 C#, Swift, Kotlin  
+- 🌐 JavaScript (Svelte, React)  
+- 📱 Flutter  
+- ⚙️ Node.js  
+- 🗄️ SQL  
 
 ---
 
