@@ -10,17 +10,21 @@
 
 💻 Software Developer passionate about building useful and scalable applications.  
 🌱 Currently focused on improving my **Frontend skills**, while also working on **Backend development**.  
-🧠 Always learning new technologies and best practices.  
+🧠 Always learning new technologies and best practices.
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Error404RD&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Error404RD&layout=compact&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404RD&layout=compact&theme=radical" />
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Error404RD&show_icons=true&theme=radical" />
 
 <img src="https://streak-stats.demolab.com?user=Error404RD&theme=radical" />
 
@@ -31,11 +35,11 @@
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**
-- 💡 C#, Swift, Kotlin  
-- 🌐 JavaScript (Svelte, React)  
-- 📱 Flutter  
-- ⚙️ Node.js  
-- 🗄️ SQL  
+- 💡 C#, Swift, Kotlin
+- 🌐 JavaScript (Svelte, React)
+- 📱 Flutter
+- ⚙️ Node.js
+- 🗄️ SQL
 
 ---
 
@@ -61,7 +65,7 @@ Generate QR codes from links quickly and easily.
 
 ## 📫 Contact Me
 
-📧 Email: josemlopez1912@gmail.com  
+📧 Email: josemlopez1912@gmail.com
 
 ---
 
