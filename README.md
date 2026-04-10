@@ -1,22 +1,58 @@
-# Hi I'm Error Developer, but my friends call me Jose 👋!
+# 👋 Hi, I'm Jose (aka Error404RD)
 
 <div align="center">
-<img width="100%" height = "250px" src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" alt="cover" />
+  <img width="100%" height="250px" src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" alt="cover" />
 </div>
 
-## About Me
+---
 
-- 🌱 I'm developing my FrontEnd skills and I dabble in the backend when my senior allows me to.
-- 💬 Ask me about C#, Swift, Kotlin, SQL, JavaScript, Svelte, React, Flutter, Node.js!
-- 📫 Text me on: josemlopez1912@gmail.com
+## 🚀 About Me
 
-## Portfolio
-[![Visit my portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge)](..)
+💻 Software Developer passionate about building useful and scalable applications.  
+🌱 Currently focused on improving my **Frontend skills**, while also working on **Backend development**.  
+🧠 Always learning new technologies and best practices.  
 
-### Web Development
-- [SnakeGame](https://github.com/Error404RD/SnakeGame) - This project has been something very simple, honestly it is basically the classic snake game.
-- [qr-generator](https://github.com/Error404RD/SnakeGame) - QR code generator based on a link
+---
 
-## Connect with me
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+- 💡 C#, Swift, Kotlin
+- 🌐 JavaScript (Svelte, React)
+- 📱 Flutter
+- ⚙️ Node.js
+- 🗄️ SQL
+
+---
+
+## 📌 Portfolio
+
+[![Visit my portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge)](TU_LINK_AQUI)
+
+---
+
+## 💼 Projects
+
+### 🕹️ Snake Game
+🔗 https://github.com/Error404RD/SnakeGame  
+Classic snake game built as a simple and fun project.
+
+---
+
+### 🔳 QR Generator
+🔗 https://github.com/Error404RD/qr-generator  
+Generate QR codes from links quickly and easily.
+
+---
+
+## 📫 Contact Me
+
+📧 Email: josemlopez1912@gmail.com  
+
+---
+
+## 🌐 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Lopez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-miguel-lopez-arias-867855220/)
-[![Instagram](https://img.shields.io/badge/Instagram-Jose%20Lopez-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/https.josemlopez/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@https.josemlopez-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.josemlopez/)
